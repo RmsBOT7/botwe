@@ -54,7 +54,7 @@ Follow The Steps Below!
 > bash install.sh
 
 
-> pkg update && pkg upgrade && pkg install git && pkg install bash && git clone https://github.com/zaky-prog/botwe.git && cd botwea && bash install.sh && npm start
+> pkg update && pkg upgrade && pkg install git && pkg install bash && git clone https://github.com/zaky-prog/botwe.git && cd botwe && bash install.sh && npm start
 ```
 
 ## Usage
