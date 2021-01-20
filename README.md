@@ -1,10 +1,12 @@
-### Moshi Moshi~ I'm ANKER<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshi Moshi~ I'm SAD<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
 🍙 Help me!
 
-* [Saweria](https://saweria.co/darkbot2412)
+thangks to angker
 
-#Gopay/Pulsa/Dana:0813-6864-6011
+* [Saweria](https://saweria.co/Bngjek)
+
+#Gopay/Pulsa/Dana:0858-3207-9751
 
 ## Tools
 
